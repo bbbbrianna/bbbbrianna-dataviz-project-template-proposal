@@ -30,4 +30,4 @@ The following are my sketches of how the project will look like.
 
 ## Open Questions
 
-I am not sure how to make the animation of the most popular 10 artist over time.
+I am not sure how to make the animation of the most popular 10 artist over time. There should be some website providing such template for the time-following bar chart
