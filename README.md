@@ -6,9 +6,9 @@ The data I propose to visualize for my project is the [Spotify top 50 songs in t
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a line chart, and it shows the change of the signatures of the 10 most popular songs from 2010.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
