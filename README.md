@@ -21,6 +21,10 @@ The following tasks and questions will drive the visualization and interaction d
  * Is there any interactions of the music features?
 
 ## Sketches
+The following are my sketches of how the project will look like.
+* the composition of top genres overtime
+* the dynamic visualization of the most popular singers from 2010
+* the line chart shows the trend of popular music features
 ![image](https://user-images.githubusercontent.com/42927474/94643299-7b3e9580-02b4-11eb-8f24-aa5bc775d949.png)
 ![image](https://user-images.githubusercontent.com/42927474/94643309-81347680-02b4-11eb-9dfb-b6748d158309.png)
 
