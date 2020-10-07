@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is the [Spotify top 50 songs in the US from 2010 to 2019](https://gist.github.com/bbbbrianna/e74082354cbdfe18d42c7b66ecdefa76)
+The data I propose to visualize for my project is the [top 50 songs in the US from 2010 to 2019](https://gist.github.com/bbbbrianna/e74082354cbdfe18d42c7b66ecdefa76). This dataset includes the most popular songs played in the US in 2010-2019, which was originally from Spotify, each attribute's meaning can be retrieved from [Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/).
 
 ## Prototypes
 
@@ -10,15 +10,21 @@ I’ve created a proof of concept visualization of this data. It's a line chart,
 
 ![image](https://user-images.githubusercontent.com/42927474/94642438-1aae5900-02b2-11eb-8ffc-92cd4200eda9.png)(https://vizhub.com/bbbbrianna/ecd35efcf8f7432e9e3e92f7d52c2680)
 
+The data was preprocessed to calculate [the means of features from the top 10 music every year](https://gist.github.com/bbbbrianna/7472f5bf8f2bbab14a3e4411cf8869e0).
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * How do people's taste of music changes since 2010?
- * Is there a trend of music evaluated by their factors?(e.g. bpm, dance)
- * Which artist became more popular and which became less popular?
- * Is there any interactions of the music features?
+ * How does people's taste of music change since 2010?
+ * Is there a trend of music can be evaluated by their factors?(e.g. bpm, dance)
+ * Which artists are becoming more or less popular?
+ * Is there any interaction of the music features?
+
+## Schedule of Deliverables
+### Tasks
+* Preprocess to have 
+
 
 ## Sketches
 The following are my sketches of how the project will look like.
