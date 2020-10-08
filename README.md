@@ -24,22 +24,22 @@ The following tasks and questions will drive the visualization and interaction d
 ## Schedule of Deliverables
 ### Tasks
 * Yearly Genre Trend Change
- - Preprocess to reduct the data, such as calculate the percentage of the top genres (Oct 15)
- - Visualize as the bar chart by the top genre, add menu to select the year (Oct 20)
- - Tweak the attributes such as colors, size, fonts (Oct 27)
- - emphasize the most popular genre by using high-contrast color (Oct 30)
+  - Preprocess to reduct the data, such as calculate the percentage of the top genres (Oct 15)
+  - Visualize as the bar chart by the top genre, add menu to select the year (Oct 20)
+  - Tweak the attributes such as colors, size, fonts (Oct 27)
+  - emphasize the most popular genre by using high-contrast color (Oct 30)
 
 * Signature Change of the Hit Songs
- - Preprocess to select the top 10 songs and calculate the mean and standard deviation (Done)
- - Realize the sketch showing the line chart of music features change (Done)
- - Add the shade as the standard deviation to show the vairations (Oct 15)
- - Add the tooltips on each line to show which is the catagory
+  - Preprocess to select the top 10 songs and calculate the mean and standard deviation (Done)
+  - Realize the sketch showing the line chart of music features change (Done)
+  - Add the shade as the standard deviation to show the vairations (Oct 15)
+  - Add the tooltips on each line to show which is the catagory
 
 * Dynamic Bar chart of the change of the most popular artists
- - Proprocess to calculate the "popular score of each artist(Oct 27)
- - Select the top 15 singers each year and their score to make the dataset(Oct 29)
- - Make the barchart with menu showing the year (Nov 4)
- - Use Flourish to realize the same function and compare which one is better (Nov 6)
+  - Proprocess to calculate the "popular score of each artist(Oct 27)
+  - Select the top 15 singers each year and their score to make the dataset(Oct 29)
+  - Make the barchart with menu showing the year (Nov 4)
+  - Use Flourish to realize the same function and compare which one is better (Nov 6)
 
 
 ## Sketches
