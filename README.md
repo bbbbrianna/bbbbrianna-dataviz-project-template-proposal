@@ -23,7 +23,23 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Schedule of Deliverables
 ### Tasks
-* Preprocess to have 
+* Yearly Genre Trend Change
+** Preprocess to reduct the data, such as calculate the percentage of the top genres (Oct 15)
+** Visualize as the bar chart by the top genre, add menu to select the year (Oct 20)
+** Tweak the attributes such as colors, size, fonts (Oct 27)
+** emphasize the most popular genre by using high-contrast color (Oct 30)
+
+* Signature Change of the Hit Songs
+** Preprocess to select the top 10 songs and calculate the mean and standard deviation (Done)
+** Realize the sketch showing the line chart of music features change (Done)
+** Add the shade as the standard deviation to show the vairations (Oct 15)
+** Add the tooltips on each line to show which is the catagory
+
+* Dynamic Bar chart of the change of the most popular artists
+** Proprocess to calculate the "popular score of each artist(Oct 27)
+** Select the top 15 singers each year and their score to make the dataset(Oct 29)
+** Make the barchart with menu showing the year (Nov 4)
+** Use Flourish to realize the same function and compare which one is better (Nov 6)
 
 
 ## Sketches
@@ -35,5 +51,4 @@ The following are my sketches of how the project will look like.
 ![image](https://user-images.githubusercontent.com/42927474/94643309-81347680-02b4-11eb-9dfb-b6748d158309.png)
 
 ## Open Questions
-
-I am not sure how to make the animation of the most popular 10 artist over time. There should be some website providing such template for the time-following bar chart
+We can also explore the specific preference of artists that making such genres of music, or music features.
